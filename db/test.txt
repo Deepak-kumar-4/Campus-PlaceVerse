@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[test] (
+    [student_id] VARCHAR (50) NOT NULL,
+    [score]    VARCHAR (50) NULL,
+    [date]       DATETIME NULL,
+    PRIMARY KEY CLUSTERED ([student_id] ASC)
+);
+

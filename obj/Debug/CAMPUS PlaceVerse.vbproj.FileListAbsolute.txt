@@ -1,0 +1,206 @@
+F:\Project work\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe.config
+F:\Project work\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe
+F:\Project work\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.pdb
+F:\Project work\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.xml
+F:\Project work\CAMPUS PlaceVerse\bin\Debug\Guna.UI2.dll
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.AssemblyReference.cache
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.SuggestedBindingRedirects.cache
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Resources.resources
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.GenerateResource.cache
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CoreCompileInputs.cache
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CopyComplete
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.exe
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.xml
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.pdb
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe.config
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.pdb
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.xml
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\bin\Debug\Guna.UI2.dll
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.AssemblyReference.cache
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.SuggestedBindingRedirects.cache
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Resources.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.GenerateResource.cache
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CoreCompileInputs.cache
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CopyComplete
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.exe
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.xml
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.pdb
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.login.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe.config
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.pdb
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.xml
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\bin\Debug\Guna.UI2.dll
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.AssemblyReference.cache
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.SuggestedBindingRedirects.cache
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.login.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.registration.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Resources.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.GenerateResource.cache
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CoreCompileInputs.cache
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CopyComplete
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.exe
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.xml
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.pdb
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.load2.resources
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_login.resources
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Dashboard.resources
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.load2.resources
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.login.resources
+F:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.registration.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe.config
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.pdb
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.xml
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_login.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.load2.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.login.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.registration.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Resources.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CopyComplete
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.exe
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.xml
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.pdb
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_login.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Faq.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Faq.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Home.resources
+G:\Project work\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe.config
+G:\Project work\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe
+G:\Project work\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.pdb
+G:\Project work\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.xml
+G:\Project work\CAMPUS PlaceVerse\bin\Debug\Guna.UI2.dll
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.AssemblyReference.cache
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.SuggestedBindingRedirects.cache
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_login.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Home.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Faq.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.load2.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.login.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.registration.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Resources.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.GenerateResource.cache
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CoreCompileInputs.cache
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CopyComplete
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.exe
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.xml
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.pdb
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.comp_info.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.comp_info.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_home.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_home.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.accenture.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.deloitte.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.hcl.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.infosys.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.sap.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.tcs.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.tech.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.wipro.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.hexaware.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.profile.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.applied_comp.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.accenture.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.applied_comp.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.deloitte.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.hcl.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.hexaware.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.infosys.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.profile.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.sap.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.tcs.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.tech.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.wipro.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.accenture.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_home.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.applied_comp.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.comp_info.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.deloitte.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.hcl.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.hexaware.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Home.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.infosys.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Mocktest.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.profile.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.sap.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.tcs.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.tech.resources
+C:\Users\ADMIN\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.wipro.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.accenture.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_home.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_login.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.applied_comp.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.comp_info.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.deloitte.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.hcl.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.hexaware.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Home.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Faq.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.infosys.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.load2.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Mocktest.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.profile.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.registration.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.sap.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.tcs.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.tech.resources
+C:\Users\darsh\Downloads\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.wipro.resources
+G:\Project work\CAMPUS PlaceVerse\bin\Debug\placeverse.mdf
+G:\Project work\CAMPUS PlaceVerse\bin\Debug\placeverse_log.ldf
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.report.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_edit.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.test.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\bin\Debug\placeverse.mdf
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\bin\Debug\placeverse_log.ldf
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_edit.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.report.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.test.resources
+C:\Users\darsh\Desktop\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.test_report.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.test_report.resources
+G:\Project work\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.mock_result.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\bin\Debug\placeverse.mdf
+D:\Campus Placeverse\CAMPUS PlaceVerse\bin\Debug\placeverse_log.ldf
+D:\Campus Placeverse\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe.config
+D:\Campus Placeverse\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.exe
+D:\Campus Placeverse\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.pdb
+D:\Campus Placeverse\CAMPUS PlaceVerse\bin\Debug\CAMPUS PlaceVerse.xml
+D:\Campus Placeverse\CAMPUS PlaceVerse\bin\Debug\Guna.UI2.dll
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.AssemblyReference.cache
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.SuggestedBindingRedirects.cache
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.accenture.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_edit.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_home.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.admin_login.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.applied_comp.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.comp_info.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.deloitte.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.hcl.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.hexaware.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Home.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Faq.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.infosys.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.load2.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.login.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.mock_result.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.profile.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.registration.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.Resources.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.report.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.sap.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.tcs.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.tech.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.test_report.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.test.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS_PlaceVerse.wipro.resources
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.GenerateResource.cache
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CoreCompileInputs.cache
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.vbproj.CopyComplete
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.exe
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.xml
+D:\Campus Placeverse\CAMPUS PlaceVerse\obj\Debug\CAMPUS PlaceVerse.pdb

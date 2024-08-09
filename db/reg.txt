@@ -1,0 +1,13 @@
+CREATE TABLE [dbo].[reg] (
+    [student_id]   VARCHAR (50)  NOT NULL,
+    [student_name] VARCHAR (50)  NULL,
+    [gender]       VARCHAR (50)  NULL,
+    [cgpa]         VARCHAR (50)  NULL,
+    [phno]         VARCHAR (50)  NULL,
+    [email]        VARCHAR (50)  NULL,
+    [department]   VARCHAR (50)  NULL,
+    [password]     VARCHAR (50)  NULL,
+    [image_path]   VARCHAR (MAX) NULL,
+    PRIMARY KEY CLUSTERED ([student_id] ASC)
+);
+

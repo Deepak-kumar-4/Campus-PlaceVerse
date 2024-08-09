@@ -1,0 +1,6 @@
+CREATE TABLE [dbo].[company] (
+    [company_id]   VARCHAR (50) NULL,
+    [company_name] VARCHAR (50) NULL,
+    [student_id]   VARCHAR (50) NOT NULL,
+    CONSTRAINT [PK_company] PRIMARY KEY CLUSTERED ([student_id] ASC)
+);

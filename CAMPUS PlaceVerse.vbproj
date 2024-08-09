@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{44736561-3118-4315-A2D8-CFE9EC6C7ABC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CAMPUS_PlaceVerse.My.MyApplication</StartupObject>
+    <RootNamespace>CAMPUS_PlaceVerse</RootNamespace>
+    <AssemblyName>CAMPUS PlaceVerse</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CAMPUS PlaceVerse.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CAMPUS PlaceVerse.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.3.5, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.3.5\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="accenture.Designer.vb">
+      <DependentUpon>accenture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="accenture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_edit.Designer.vb">
+      <DependentUpon>admin_edit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin_edit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_home.Designer.vb">
+      <DependentUpon>admin_home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin_home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_login.Designer.vb">
+      <DependentUpon>admin_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="applied_comp.Designer.vb">
+      <DependentUpon>applied_comp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="applied_comp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="comp_info.Designer.vb">
+      <DependentUpon>comp_info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="comp_info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deloitte.Designer.vb">
+      <DependentUpon>deloitte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="deloitte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hcl.Designer.vb">
+      <DependentUpon>hcl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hcl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hexaware.Designer.vb">
+      <DependentUpon>hexaware.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hexaware.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faq.Designer.vb">
+      <DependentUpon>Faq.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Faq.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="infosys.Designer.vb">
+      <DependentUpon>infosys.vb</DependentUpon>
+    </Compile>
+    <Compile Include="infosys.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="load2.Designer.vb">
+      <DependentUpon>load2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="load2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mock_result.Designer.vb">
+      <DependentUpon>mock_result.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mock_result.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="placeverseDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>placeverseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="profile.Designer.vb">
+      <DependentUpon>profile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration.Designer.vb">
+      <DependentUpon>registration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="company_report.Designer.vb">
+      <DependentUpon>company_report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="company_report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sap.Designer.vb">
+      <DependentUpon>sap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tcs.Designer.vb">
+      <DependentUpon>tcs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tcs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tech.Designer.vb">
+      <DependentUpon>tech.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tech.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test report.Designer.vb">
+      <DependentUpon>test report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="test report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test.Designer.vb">
+      <DependentUpon>test.vb</DependentUpon>
+    </Compile>
+    <Compile Include="test.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wipro.Designer.vb">
+      <DependentUpon>wipro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="wipro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="accenture.resx">
+      <DependentUpon>accenture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_edit.resx">
+      <DependentUpon>admin_edit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_home.resx">
+      <DependentUpon>admin_home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_login.resx">
+      <DependentUpon>admin_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="applied_comp.resx">
+      <DependentUpon>applied_comp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="comp_info.resx">
+      <DependentUpon>comp_info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deloitte.resx">
+      <DependentUpon>deloitte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hcl.resx">
+      <DependentUpon>hcl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hexaware.resx">
+      <DependentUpon>hexaware.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Faq.resx">
+      <DependentUpon>Faq.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infosys.resx">
+      <DependentUpon>infosys.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="load2.resx">
+      <DependentUpon>load2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mock_result.resx">
+      <DependentUpon>mock_result.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profile.resx">
+      <DependentUpon>profile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration.resx">
+      <DependentUpon>registration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="company_report.resx">
+      <DependentUpon>company_report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sap.resx">
+      <DependentUpon>sap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tcs.resx">
+      <DependentUpon>tcs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tech.resx">
+      <DependentUpon>tech.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test report.resx">
+      <DependentUpon>test report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wipro.resx">
+      <DependentUpon>wipro.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="placeverseDataSet.xsc">
+      <DependentUpon>placeverseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="placeverseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>placeverseDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="placeverseDataSet.xss">
+      <DependentUpon>placeverseDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="placeverse.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="placeverse_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>placeverse.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\aniket-deole-M6XC789HLe8-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

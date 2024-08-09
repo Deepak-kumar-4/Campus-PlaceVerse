@@ -1,0 +1,34 @@
+
+        Dim con = New SqlConnection("Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\darsh\Documents\CampusDb.mdf;Integrated Security=True;Connect Timeout=30")
+    
+        If student_id.Text = "" Or password.Text = "" Or student_name.Text = "" Or regno.Text = "" Then
+            MessageBox.Show("Please Enter all the details ..", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        Else
+            Try
+                con.Open()
+                Dim query = "insert into reg values('" & student_id.Text & "','" & student_name.Text & "','" & regno.Text & "','" & dob.Text & "','" & gender.Text & "','" & collegename.Text & "','" & cgpa.Text & "','" & phno.Text & "','" & email.Text & "','" & roles.Text & "','" & password.Text & "')"
+                Dim cmd As SqlCommand
+                    cmd = New SqlCommand(query, con)
+                cmd.ExecuteNonQuery()
+
+                MessageBox.Show("Registartion success Account Created.....!!", "Success!", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                Me.Hide()
+                login.Show()
+                student_id.Clear()
+                student_name.Clear()
+                gender.Text = " "
+                phno.Clear()
+                email.Clear()
+                cgpa.Clear()
+                collegename.Clear()
+                roles.Text = " "
+                regno.Clear()
+                password.Clear()
+                con.Close()
+
+
+            Catch ex As Exception
+                MessageBox.Show("Error..", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            End Try
+            con.Close()
+        End If
